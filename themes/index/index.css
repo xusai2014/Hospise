@@ -1,0 +1,5 @@
+@import "necolas/normalize.css@3.0.2";
+
+* {
+  box-sizing: border-box;
+}
